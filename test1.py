@@ -1,3 +1,6 @@
+#code made by Divyanshu Mehta
+# adjustments made by Thomaz in order to print the step by step in terminal
+
 from collections import defaultdict
 
 class Graph():
